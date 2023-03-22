@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KotlinTest</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="btn_reset">RESET</string>
+    <string name="btn_back">Click in 3 seconds and you will be out</string>
+    <string name="txt_status">상태메세지</string>
 </resources>
